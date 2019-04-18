@@ -1,3 +1,9 @@
+# Welcome to CS 179, Thursday 4:30pm studio. 
+
+## Studio slides
+
+## Helpful resources
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aschugart/cs179/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
