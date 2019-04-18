@@ -2,6 +2,25 @@
 
 ## Studio slides
 
+[Studio One](https://docs.google.com/presentation/d/1aRVEjmfBFUrSb6IGjjMS72by_WyKBIFJwiNpEqvEPT4/edit?usp=sharing)
+
+[Studio Two](https://docs.google.com/presentation/d/1osNe-NNRz04cv25ofk3-fKy-T-wEBe_9NfqgnQASccE/edit?usp=sharing)
+
+[Studio Three](https://docs.google.com/presentation/d/1Tm1Fl9Am4myMUsTosfi6MIaa3euR17Dz7JTn-P0HtP0/edit?usp=sharing)
+
+[Studio Four](https://docs.google.com/presentation/d/1Whtip6jxl20phWq94R_HhJOkZxgPBLmdSrxWVvxwBkQ/edit?usp=sharing)
+
+[Studio Five](https://docs.google.com/presentation/d/1ZnYPBtHDcT4aeYyG7ecTp9AMcezAVhIPMLkqwW6hfDE/edit?usp=sharing)
+
+[Studio Six](https://docs.google.com/presentation/d/1-X8yurJY29djNhhCC6ViFfN7fFMulauEyVutU7NDFiM/edit?usp=sharing)
+
+[Studio Seven]() external evaluators
+
+[Studio Eight]()
+
+[Studio Nine](https://docs.google.com/presentation/d/1PbQWwhIAo0pohs4rghLo_SZ8vS-Z9RN0MvwNJcoqPRw/edit?usp=sharing)
+
+
 ## Helpful resources
 
 ## Welcome to GitHub Pages
