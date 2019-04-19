@@ -1,5 +1,5 @@
 # Welcome to CS 179, Thursday 4:30pm studio. 
-
+<br/><br/>
 
 ## Studio slides
 
@@ -22,5 +22,5 @@ Studio Seven - None (external evaluators)
 [Studio Nine](https://docs.google.com/presentation/d/1PbQWwhIAo0pohs4rghLo_SZ8vS-Z9RN0MvwNJcoqPRw/edit?usp=sharing) - Lens of accessibility, color tools
 
 
-
+<br/><br/>
 ## Helpful resources
