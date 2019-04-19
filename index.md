@@ -1,7 +1,7 @@
 # Welcome to CS 179, Thursday 4:30pm studio. 
 <br/><br/>
 
-## Studio slides
+## Studio Slides
 
 - [Studio One](https://docs.google.com/presentation/d/1aRVEjmfBFUrSb6IGjjMS72by_WyKBIFJwiNpEqvEPT4/edit?usp=sharing) - Double diamond design process
 
@@ -23,6 +23,6 @@
 
 
 <br/><br/>
-## Helpful resources
+## Helpful Resources
 
 - Prototyping tools comparison: [link one](https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47), [link two](https://blog.prototypr.io/10-best-prototyping-tools-for-ui-ux-designers-in-2018-6591ea1e2e71)
