@@ -25,4 +25,4 @@ Studio Seven - None (external evaluators)
 <br/><br/>
 ## Helpful resources
 
-Prototyping tools comparison: [link one]([Studio Nine](https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47), [link two](https://blog.prototypr.io/10-best-prototyping-tools-for-ui-ux-designers-in-2018-6591ea1e2e71)
+Prototyping tools comparison: [link one](https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47), [link two](https://blog.prototypr.io/10-best-prototyping-tools-for-ui-ux-designers-in-2018-6591ea1e2e71)
