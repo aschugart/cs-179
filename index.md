@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 # Welcome to CS 179, Thursday 4:30pm studio. 
 <br/><br/>
 
