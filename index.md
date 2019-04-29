@@ -21,9 +21,13 @@
 
 - [Studio Nine](https://docs.google.com/presentation/d/1PbQWwhIAo0pohs4rghLo_SZ8vS-Z9RN0MvwNJcoqPRw/edit?usp=sharing) - Lens of accessibility, color tools
 
+- [Studio Ten](https://docs.google.com/presentation/d/1JIXMyED9N-96iStOzSDN_KUH_Ee9l54tbNQ71zQJIVU/edit?usp=sharing) - Wrap-up
+
 
 <br/><br/>
 ## Helpful Resources
 
-- Prototyping tools comparison: [link one](https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47), [link two](https://blog.prototypr.io/10-best-prototyping-tools-for-ui-ux-designers-in-2018-6591ea1e2e71)
+- Grading guide and tips for final report: [link](https://docs.google.com/document/d/13q0SX7s8ST2MH4qgXDM9sxzxoylsGN0rfINkYJ5pTGc/edit?usp=sharing)
 - [Dictionary of design concepts](http://sp18.cs179.org/design-concepts/) from past iteration of this course
+- Prototyping tools comparison: [link one](https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47), [link two](https://blog.prototypr.io/10-best-prototyping-tools-for-ui-ux-designers-in-2018-6591ea1e2e71)
+
